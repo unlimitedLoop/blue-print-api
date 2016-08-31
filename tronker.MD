@@ -27,7 +27,7 @@ Polls is a simple API allowing consumers to view polls and vote in them.
                         "votes": 512
                     }, {
                         "choice": "Ruby",
-                        "votes": 256
+                        "votes": 128
                     }
                 ]
             }
